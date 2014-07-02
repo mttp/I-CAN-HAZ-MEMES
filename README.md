@@ -1,4 +1,4 @@
 I-CAN-HAZ-MEMES
 ===============
 
-Meme generator in C#
+A meme generator desktop application in C#. This project was written for a university class.
