@@ -1,0 +1,14 @@
+c:\users\mttp\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+c:\users\mttp\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+c:\users\mttp\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+c:\users\mttp\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.csprojResolveAssemblyReference.cache
+c:\users\mttp\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+c:\users\mttp\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
+C:\Users\mttp\Documents\Projects\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.csprojResolveAssemblyReference.cache
+C:\Users\mttp\Documents\Projects\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+C:\Users\mttp\Documents\Projects\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
+C:\Users\mttp\Documents\Projects\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+C:\Users\mttp\Documents\Projects\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+C:\Users\mttp\Documents\Projects\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+C:\Users\mttp\Documents\Projects\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.Form1.resources
+C:\Users\mttp\Documents\Projects\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.csproj.GenerateResource.Cache

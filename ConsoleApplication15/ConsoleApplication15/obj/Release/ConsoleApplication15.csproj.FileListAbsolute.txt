@@ -1,0 +1,5 @@
+C:\Users\mttp\Documents\Projects\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\bin\Release\ConsoleApplication15.exe.config
+C:\Users\mttp\Documents\Projects\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\bin\Release\ConsoleApplication15.exe
+C:\Users\mttp\Documents\Projects\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\bin\Release\ConsoleApplication15.pdb
+C:\Users\mttp\Documents\Projects\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Release\ConsoleApplication15.exe
+C:\Users\mttp\Documents\Projects\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Release\ConsoleApplication15.pdb
