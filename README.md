@@ -1,4 +1,4 @@
-I_CAN_HAZ_MEMES
+I-CAN-HAZ-MEMES
 ===============
 
 Meme generator in C#
